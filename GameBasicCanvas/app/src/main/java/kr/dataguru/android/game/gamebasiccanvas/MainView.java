@@ -73,6 +73,5 @@ public class MainView extends View {
                 canvas.getHeight()/10, // radius
                 paint // paint
         );
-
     }
 }
